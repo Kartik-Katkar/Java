@@ -1,4 +1,4 @@
-# Mini Java Programs Repository
+# Java Programs Repository
 
 Welcome to the **Java** repository! This collection of Java programs is designed to provide beginners and intermediate-level programmers with a range of small and concise examples to help them learn and explore the fundamentals of Java programming.
 
